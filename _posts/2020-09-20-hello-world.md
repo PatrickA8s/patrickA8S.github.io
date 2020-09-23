@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+tags: devops k8s
 ---
 
 # Welcome
