@@ -11,7 +11,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 {% for tag in site.tags %}
   ### {{ tag[0] }}
     {% for post in tag[1] %}
-      - [{{ post.title }}]({{ post.url }})
+      - [{{ post.title }}](https://patrickA8S.github.io/{{ post.url }})
     {% endfor %}
 {% endfor %}
 
