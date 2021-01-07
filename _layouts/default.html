@@ -20,7 +20,7 @@
 
         <section id="downloads">
           {% for category in site.categories %}
-            <a href="{{ '/' | category[0] }}" class="btn">{{ category[0] }}</a>
+            <a href="{{ '/' | append:category[0] | relative_url }}" class="btn">{{ category[0] }}</a>
           {% endfor %}
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
