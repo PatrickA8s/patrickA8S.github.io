@@ -1,6 +1,7 @@
 ---
 category: kubernetes
 date: 2021-01-01
+lang: fr
 ---
 # K8S
 {% include long_date.html date=page.date %}:{{ page.category }}
