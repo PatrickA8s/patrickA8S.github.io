@@ -1,12 +1,12 @@
 # Site
-name: 'Mundana'
+name: 'A Kubernetes World'
 title: Just some links and ideas
-description: Feel free to bookmark
+description: Why reinventing the wheel? We have Kubernetes!
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: 'https://patricka8s.github.io/'
 disqus: 'demowebsite'
-email: 'p@pk8s.tk'
+email: 'p@pa8s.tk'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -20,21 +20,13 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
+    patrick:
+      name:           Patrick
+      site:           https://patricka8s.github.io
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
-
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Hi, I am Patrick, the writer of this blob. I hope you like it!"
+      email:          t@g.com
+      twitter:        https://twitter.com/
  
 # Defaults
 defaults:
@@ -44,7 +36,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: patrick
       avatar: /assets/images/avatar1.jpg
       
   # all pages
