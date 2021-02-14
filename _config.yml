@@ -1,6 +1,6 @@
 # Site
-name: 'Le monde entier est un <strike>cactus</strike>multi-cluster Kubernetes'
-title: Just some links and ideas
+name: 'Le monde est un multi-cluster Kubernetes'
+title: Comment faisions-nous avant Kubernetes ?
 description: Pourquoi réinventer le monde ? Nous avons Kubernetes
 favicon: 'assets/images/favicon.ico'
 baseurl: 'https://patricka8s.github.io/'
