@@ -1,8 +1,7 @@
 # Site
 name: 'Le monde entier est un <strike>cactus</strike>multi-cluster Kubernetes'
 title: Just some links and ideas
-description: Why reinventing the wheel? We have Kubernetes!
-logo: 'assets/images/logo.png'
+description: Pourquoi réinventer le monde ? Nous avons Kubernetes
 favicon: 'assets/images/favicon.ico'
 baseurl: 'https://patricka8s.github.io/'
 disqus: 'le-monde-entier-est-un-cluster-kubernetes'
